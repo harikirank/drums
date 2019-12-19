@@ -84,3 +84,8 @@ footer {
 .change-color {
   color : white;
 }
+
+//disable double tap on butttons in our website on mobile devices
+.disable-dbl-tap-zoom {
+  touch-action: manipulation;
+}
